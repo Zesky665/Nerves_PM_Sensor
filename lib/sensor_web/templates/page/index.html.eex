@@ -1,0 +1,13 @@
+<div class="jumbotron">
+  <div class="row marketing">
+    <div class="col-lg-6">
+      <h2>PM 2.5</h2>
+      <h1><strong id="pm25">420</strong></h1>
+    </div>
+
+    <div class="col-lg-6">
+      <h2>PM 10</h2>
+      <h1><strong id="pm10">420</strong></h1>
+    </div>
+  </div>
+</div>
